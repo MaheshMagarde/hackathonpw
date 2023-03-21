@@ -1,2 +1,2 @@
 # Hackathon
-ineuron hackathon
+Rajasthan IT Day Hackathon 2023 
